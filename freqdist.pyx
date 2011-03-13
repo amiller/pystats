@@ -4,6 +4,7 @@ from collections import defaultdict as _defdict
 
 import numpy as _np
 cimport numpy as _np
+from cpython cimport bool
 
 cdef extern from "math.h":
 	double sqrt(double)
