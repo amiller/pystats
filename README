@@ -1,0 +1,9 @@
+Some statistics classes...
+
+Dependences:
+ - cython
+ - numpy
+ - gcc
+
+ Installation:
+ - Run build.sh. Make sure the path variables make sense for your system.
