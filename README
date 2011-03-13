@@ -2,6 +2,7 @@ Some statistics classes...
 
 Dependences:
  - cython
+ - distutils
  - numpy
  - gcc
 
